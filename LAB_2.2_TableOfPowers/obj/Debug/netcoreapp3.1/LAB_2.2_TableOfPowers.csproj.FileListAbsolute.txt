@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\bin\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.exe
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\bin\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.deps.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\bin\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\bin\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\bin\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\bin\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.pdb
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\obj\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\obj\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\obj\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\obj\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_2.2_TableOfPowers\obj\Debug\netcoreapp3.1\LAB_2.2_TableOfPowers.pdb
