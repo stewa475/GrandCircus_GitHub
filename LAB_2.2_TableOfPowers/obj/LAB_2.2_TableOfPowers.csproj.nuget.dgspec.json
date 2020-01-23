@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\LAB_2.2_TableOfPowers.csproj": {}
+    "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\LAB_2.2_TableOfPowers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\LAB_2.2_TableOfPowers.csproj": {
+    "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\LAB_2.2_TableOfPowers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\LAB_2.2_TableOfPowers.csproj",
+        "projectUniqueName": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\LAB_2.2_TableOfPowers.csproj",
         "projectName": "LAB_2.2_TableOfPowers",
-        "projectPath": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\LAB_2.2_TableOfPowers.csproj",
+        "projectPath": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\LAB_2.2_TableOfPowers.csproj",
         "packagesPath": "C:\\Users\\ASteward1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\obj\\",
+        "outputPath": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_2.2_TableOfPowers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

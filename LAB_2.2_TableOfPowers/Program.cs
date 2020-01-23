@@ -11,7 +11,7 @@ namespace LAB_2._2_TableOfPowers
             {
                 Console.Write("Enter an integer: ");
                 int num = int.Parse(Console.ReadLine());
-                if (num <= 0 || num >= 1290)
+                if (num <= 0 || num > 1290)
                 {
                     continue;
                 }
