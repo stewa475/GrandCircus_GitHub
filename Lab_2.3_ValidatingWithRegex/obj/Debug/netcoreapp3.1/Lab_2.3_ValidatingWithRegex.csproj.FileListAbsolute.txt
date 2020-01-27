@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\bin\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.exe
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\bin\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.deps.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\bin\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\bin\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\bin\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.dll
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\bin\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.pdb
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\obj\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\obj\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\obj\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\obj\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.dll
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\Lab_2.3_ValidatingWithRegex\obj\Debug\netcoreapp3.1\Lab_2.3_ValidatingWithRegex.pdb
