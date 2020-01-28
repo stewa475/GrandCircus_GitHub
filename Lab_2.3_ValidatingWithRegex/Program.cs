@@ -14,7 +14,7 @@ namespace Lab_2._3_ValidatingWithRegex
                 Console.Write("Please enter your name: ");
                 string name = Console.ReadLine();
 
-                string patternName = @"^[A-z][A-Za-z]{0,29}$";
+                string patternName = @"^[A-Z][A-Za-z]{1,30}$";
 
                 if (Regex.IsMatch(name, patternName))
                 {
