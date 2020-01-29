@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\bin\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.exe
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\bin\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.deps.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\bin\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\bin\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\bin\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\bin\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.pdb
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\obj\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\obj\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\obj\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\obj\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.1_StudentInformation\obj\Debug\netcoreapp3.1\LAB_3.1_StudentInformation.pdb
