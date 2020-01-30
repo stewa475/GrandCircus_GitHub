@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\bin\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.exe
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\bin\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.deps.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\bin\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\bin\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\bin\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\bin\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.pdb
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\obj\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\obj\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\obj\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\obj\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_3.2_ShoppingList\obj\Debug\netcoreapp3.1\LAB_3.2_ShoppingList.pdb
