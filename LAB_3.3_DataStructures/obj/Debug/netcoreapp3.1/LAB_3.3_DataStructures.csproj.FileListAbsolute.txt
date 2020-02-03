@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\obj\Debug\netcoreapp3.1\LAB_3.3_DataStructures.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\obj\Debug\netcoreapp3.1\LAB_3.3_DataStructures.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\obj\Debug\netcoreapp3.1\LAB_3.3_DataStructures.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\bin\Debug\netcoreapp3.1\LAB_3.3_DataStructures.exe
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\bin\Debug\netcoreapp3.1\LAB_3.3_DataStructures.deps.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\bin\Debug\netcoreapp3.1\LAB_3.3_DataStructures.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\bin\Debug\netcoreapp3.1\LAB_3.3_DataStructures.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\bin\Debug\netcoreapp3.1\LAB_3.3_DataStructures.dll
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\bin\Debug\netcoreapp3.1\LAB_3.3_DataStructures.pdb
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\obj\Debug\netcoreapp3.1\LAB_3.3_DataStructures.dll
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_3.3_DataStructures\obj\Debug\netcoreapp3.1\LAB_3.3_DataStructures.pdb
