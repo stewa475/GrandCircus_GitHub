@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB_4.Bonus_PigLatin/1.0.0": {
+        "runtime": {
+          "LAB_4.Bonus_PigLatin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB_4.Bonus_PigLatin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
