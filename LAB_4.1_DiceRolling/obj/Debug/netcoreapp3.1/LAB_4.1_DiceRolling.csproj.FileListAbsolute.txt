@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\bin\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.exe
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\bin\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.deps.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\bin\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\bin\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\bin\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\bin\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.pdb
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\obj\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\obj\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\obj\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\obj\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.1_DiceRolling\obj\Debug\netcoreapp3.1\LAB_4.1_DiceRolling.pdb
