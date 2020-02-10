@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\bin\Debug\netcoreapp3.1\LAB_4.2_Movies.exe
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\bin\Debug\netcoreapp3.1\LAB_4.2_Movies.deps.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\bin\Debug\netcoreapp3.1\LAB_4.2_Movies.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\bin\Debug\netcoreapp3.1\LAB_4.2_Movies.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\bin\Debug\netcoreapp3.1\LAB_4.2_Movies.dll
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\bin\Debug\netcoreapp3.1\LAB_4.2_Movies.pdb
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\obj\Debug\netcoreapp3.1\LAB_4.2_Movies.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\obj\Debug\netcoreapp3.1\LAB_4.2_Movies.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\obj\Debug\netcoreapp3.1\LAB_4.2_Movies.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\obj\Debug\netcoreapp3.1\LAB_4.2_Movies.dll
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\LAB_4.2_Movies\obj\Debug\netcoreapp3.1\LAB_4.2_Movies.pdb

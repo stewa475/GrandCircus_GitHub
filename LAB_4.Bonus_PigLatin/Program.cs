@@ -9,19 +9,19 @@ namespace LAB_4.Bonus_PigLatin
         static void Main(string[] args)
         {
             string[] arr;
-            string pattern = @"^[a-zA-Z]{1,}$";
+            string pattern = @"^[a-zA-Z]+$";
 
             Console.WriteLine("Welcome to the Pig Latin Translator!\n");
 
             do
             {
-                
+
                 arr = GetString().Split(" ");
                 Console.WriteLine();
 
                 for (int i = 0; i < arr.Length; i++)
                 {
-                    if (CheckRegex(arr[i],pattern))
+                    if (CheckRegex(arr[i], pattern))
                     {
                         TranslatePigLatin(arr[i]);
                     }
@@ -44,9 +44,7 @@ namespace LAB_4.Bonus_PigLatin
                 input = Console.ReadLine();
                 if (input.Length <= 0)
                 {
-                    Console.WriteLine();
-                    Console.WriteLine("You must enter text..");
-                    Console.WriteLine();
+                    Console.WriteLine("\nYou must enter text..\n");
                 }
             } while (input.Length <= 0);
             return input;
@@ -72,18 +70,57 @@ namespace LAB_4.Bonus_PigLatin
         //------------------------------------------------------------------------------------------------------
         //------------------------------------- PIG LATIN TRANSLATION ------------------------------------------
         //------------------------------------------------------------------------------------------------------
-        public static void TranslatePigLatin(string str)
+        public static string TranslatePigLatin(string str)
         {
-            string vowls = "aeiouAEIOU";
-            if (vowls.Contains(str[0]))
+            string vowels = "aeiouAEIOU";
+            for (int i = 0; i < str.Length; i++)
             {
-                Console.Write(str + "way ");
+                if (vowels.Contains(str[0]))
+                {
+                    Console.Write(str + "way ");
+                    break;
+                }
+                else if (vowels.Contains(str[i]) && str.Length > 2)
+                {
+                    Console.Write(str.Substring(i) + str.Substring(0, i) + "ay ");
+                    break;
+                }
+                else if ((!vowels.Contains(str[0])) && str.Length == 2)
+                {
+                    Console.Write($"{str[1]}{str[0]}ay ");
+                    break;
+                }
+                else if (!vowels.Contains(str[0]) && str.Length == 1)
+                {
+                    Console.Write($"{str}ay ");
+                    break;
+                }
             }
-            else
-            {
-                Console.Write(str.Substring(1, str.Length - 1) + str[0] + "ay ");
-            }
+            return str;
+            //----------------------------------------------------------------------------
+            //if (vowels.Contains(str[0]))
+            //{
+            //    str = str + "way ";
+            //    return str;
+            //}
+            //else
+            //{
+            //    string strCopy1 = str;
+            //    for (int i = 0; i < str.Length; i++)
+            //    {
+            //        strCopy1 = (strCopy1.Substring(1) + (str[i]));
+
+            //        if (vowels.Contains(strCopy1[0]))
+            //        {
+            //            break;
+            //        }
+            //    }
+            //    string strCopy2 = strCopy1 + "ay ";
+            //    return strCopy2;
+            //}
         }
+        //----------------------------------------------------------------------------
+    
         //------------------------------------------------------------------------------------------------------
 
         //------------------------------------------------------------------------------------------------------
@@ -94,15 +131,12 @@ namespace LAB_4.Bonus_PigLatin
             char c;
             do
             {
-                Console.WriteLine("\n");
-                Console.Write("Would you like to continue? (y/n): ");
+                Console.Write("\n\nWould you like to continue? (y/n): ");
                 c = Console.ReadKey().KeyChar;
 
                 if (c == 'n' || c == 'N')
                 {
-                    Console.WriteLine("\n");
-                    Console.WriteLine("Bye!");
-                    Console.WriteLine();
+                    Console.WriteLine("\n\nBye!\n");
                     return false;
                 }
                 Console.WriteLine("\n");
