@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\bin\Debug\netcoreapp3.1\LAB_5.1_RPG.exe
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\bin\Debug\netcoreapp3.1\LAB_5.1_RPG.deps.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\bin\Debug\netcoreapp3.1\LAB_5.1_RPG.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\bin\Debug\netcoreapp3.1\LAB_5.1_RPG.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\bin\Debug\netcoreapp3.1\LAB_5.1_RPG.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\bin\Debug\netcoreapp3.1\LAB_5.1_RPG.pdb
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\obj\Debug\netcoreapp3.1\LAB_5.1_RPG.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\obj\Debug\netcoreapp3.1\LAB_5.1_RPG.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\obj\Debug\netcoreapp3.1\LAB_5.1_RPG.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\obj\Debug\netcoreapp3.1\LAB_5.1_RPG.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.1_RPG\obj\Debug\netcoreapp3.1\LAB_5.1_RPG.pdb
