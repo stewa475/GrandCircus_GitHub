@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\bin\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.exe
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\bin\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.deps.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\bin\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\bin\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\bin\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\bin\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.pdb
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\obj\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\obj\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\obj\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\obj\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_5.2_RockPaperScissors\obj\Debug\netcoreapp3.1\LAB_5.2_RockPaperScissors.pdb
