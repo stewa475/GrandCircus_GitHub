@@ -7,7 +7,7 @@ namespace LAB_5._3_UCL
     {
         static void Main(string[] args)
         {
-            
+
             CarLot cars = new CarLot();
             cars.AddCar(new Car("Chevrolet", "Equinox", 2019, 23800));
             cars.AddCar(new Car("Honda", "Pilot", 2019, 31450));
@@ -32,12 +32,12 @@ namespace LAB_5._3_UCL
                     Console.WriteLine("3. BUY A CAR!");
                     Console.Write("What would you like to do?: ");
                     worked = int.TryParse(Console.ReadLine(), out input);
-                    
+
                     if (input == 1)
                     {
                         Console.Clear();
-                        Console.WriteLine("\nWe have the finest selection of top-of-the-line vehicles, please take a look around.\n");
                         cars.ViewCars();
+                        Console.WriteLine("\nWe have the finest selection of top-of-the-line vehicles, please, take a look around.");
                     }
                     else if (input == 2)
                     {
@@ -52,7 +52,7 @@ namespace LAB_5._3_UCL
                                 int newYear = GetInt("Enter the year: ");
                                 double newPrice = GetDouble("Price you would like to sell for: ");
                                 string decision = "";
-                                while(decision != "y")
+                                while (decision != "y")
                                 {
                                     Console.Write($"\nHow about ${(newPrice * .95):N2}? (y/n): ");
                                     decision = Console.ReadLine().ToLower();
@@ -118,13 +118,10 @@ namespace LAB_5._3_UCL
                                         return;
                                     }
                                 }
-
                                 cars.AddCar(new Car(newMake, newModel, newYear, newPrice));
                                 Console.Clear();
-
                                 Console.WriteLine("\nCONGRATULATIONS!!");
-                                Console.WriteLine($"You have sold your {newYear} {newMake} {newModel} for ${newPrice*.95:N2}");
-
+                                Console.WriteLine($"You have sold your {newYear} {newMake} {newModel} for ${newPrice * .95:N2}");
                             }
                             else if (type == "used")
                             {
@@ -217,29 +214,39 @@ namespace LAB_5._3_UCL
                     else if (input == 3)
                     {
                         string input1;
+                        bool carBought = false;
                         Console.Clear();
                         cars.ViewCars();
-                        Console.WriteLine("Which car would you like to buy?");
-                        Console.Write("Enter the vin: ");
-                        input1 = Console.ReadLine();
-
-                        for (int i = 0; i < cars.Cars.Count; i++)
+                        Console.WriteLine("\nWhich car would you like to buy?");
+                        do
                         {
-                            if (cars.Cars[i].Vin == input1)
+                            Console.Write("Enter vin: ");
+                            input1 = Console.ReadLine();
+
+                            for (int i = 0; i < cars.Cars.Count; i++)
                             {
-                                Console.Clear();
-                                Console.WriteLine("CONGRATULATIONS!!");
-                                Console.WriteLine($"You have purchased a {cars.Cars[i].Year} {cars.Cars[i].Make} {cars.Cars[i].Model} for ${cars.Cars[i].Price:N2}");
-                                cars.RemoveCar(cars.Cars[i]);
+                                if (cars.Cars[i].Vin == input1)
+                                {
+                                    Console.Clear();
+                                    Console.WriteLine("CONGRATULATIONS!!");
+                                    Console.WriteLine($"You have purchased a {cars.Cars[i].Year} {cars.Cars[i].Make} {cars.Cars[i].Model} for ${cars.Cars[i].Price:N2}");
+                                    cars.RemoveCar(cars.Cars[i]);
+                                    carBought = true;
+                                }
                             }
-                        }
+                            if (carBought == false)
+                            {
+                                Console.WriteLine("\nPlease enter a valid vin.");
+                            }
+                        } while (carBought == false);
+                        
                     }
                     else
                     {
                         Console.WriteLine("\nPlease enter a valid input.\n");
                     }
                 } while (worked != true || (input != 1 && input != 2 && input != 3));
-                
+
             } while (RunAgain());
         }
 
@@ -330,6 +337,7 @@ namespace LAB_5._3_UCL
                 }
                 Console.WriteLine("\n");
             } while (c != 'y' && c != 'Y');
+            Console.Clear();
             return true;
         }
     }
