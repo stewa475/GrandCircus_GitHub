@@ -22,7 +22,7 @@ namespace LAB_5._3_UCL
 
         public override string ToString()
         {
-            return base.ToString() + $"\nMileage {mileage}";
+            return base.ToString() + $"\nMileage {mileage:N0} \n(Used)";
         }
     }
 }

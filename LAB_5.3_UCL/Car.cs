@@ -40,7 +40,7 @@ namespace LAB_5._3_UCL
         }
         public override string ToString()
         {
-            return $"Vin: {vin}\nMake: {make}\nModel: {model}\nYear: {year}\nPrice: {price}";
+            return $"Vin: {vin}\nMake: {make}\nModel: {model}\nYear: {year}\nPrice: {price.ToString("C")}";
         }
 
         // Generate a random string with a given size  
