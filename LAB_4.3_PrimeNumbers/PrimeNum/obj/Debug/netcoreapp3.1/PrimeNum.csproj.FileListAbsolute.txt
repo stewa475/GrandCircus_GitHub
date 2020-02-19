@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.exe
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.deps.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\bin\Debug\netcoreapp3.1\PrimeNum.pdb
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.dll
+C:\Users\ASteward1\OneDrive - KNEX\Documents\GrandCircus_GitHub\LAB_4.3_PrimeNumbers\PrimeNum\obj\Debug\netcoreapp3.1\PrimeNum.pdb
