@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj": {}
+    "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj": {
+    "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj",
+        "projectUniqueName": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj",
         "projectName": "PrimeNum",
-        "projectPath": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj",
+        "projectPath": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj",
         "packagesPath": "C:\\Users\\ASteward1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\obj\\",
+        "outputPath": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

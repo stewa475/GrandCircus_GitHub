@@ -6537,11 +6537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers.csproj",
       "projectName": "LAB_4.3_PrimeNumbers",
-      "projectPath": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers.csproj",
+      "projectPath": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers.csproj",
       "packagesPath": "C:\\Users\\ASteward1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers\\obj\\",
+      "outputPath": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\LAB_4.3_PrimeNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6562,8 +6562,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj": {
-              "projectPath": "C:\\Users\\ASteward1\\OneDrive - KNEX\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj"
+            "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj": {
+              "projectPath": "C:\\Users\\ASteward1\\OneDrive - Knex\\Documents\\GrandCircus_GitHub\\LAB_4.3_PrimeNumbers\\PrimeNum\\PrimeNum.csproj"
             }
           }
         }
