@@ -1,0 +1,11 @@
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\bin\Debug\netcoreapp3.1\POS_Terminal.exe
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\bin\Debug\netcoreapp3.1\POS_Terminal.deps.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\bin\Debug\netcoreapp3.1\POS_Terminal.runtimeconfig.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\bin\Debug\netcoreapp3.1\POS_Terminal.runtimeconfig.dev.json
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\bin\Debug\netcoreapp3.1\POS_Terminal.dll
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\bin\Debug\netcoreapp3.1\POS_Terminal.pdb
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\obj\Debug\netcoreapp3.1\POS_Terminal.csprojAssemblyReference.cache
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\obj\Debug\netcoreapp3.1\POS_Terminal.AssemblyInfoInputs.cache
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\obj\Debug\netcoreapp3.1\POS_Terminal.AssemblyInfo.cs
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\obj\Debug\netcoreapp3.1\POS_Terminal.dll
+C:\Users\ASteward1\OneDrive - Knex\Documents\GrandCircus_GitHub\POS_Test\POS_Terminal\obj\Debug\netcoreapp3.1\POS_Terminal.pdb
