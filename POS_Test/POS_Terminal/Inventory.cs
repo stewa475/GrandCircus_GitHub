@@ -54,6 +54,18 @@ namespace POS_Terminal
             return inv;
         }
 
+        public string SelectItem(int num)
+        {
+            Dictionary<int, string> menu = new Dictionary<int, string>();
+            int count = 1;
+            foreach (var item in inv)
+            {
+                menu.Add(count, item.Key);
+                count++;
+            }
+            return menu[num];
+        }
+
         public override string ToString()
         {
             return $"There are {Quantity} {Name}(s) left.";

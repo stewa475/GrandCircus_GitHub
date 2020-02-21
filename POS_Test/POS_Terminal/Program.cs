@@ -32,29 +32,34 @@ namespace POS_Terminal
                 inv.AddProduct(p.Name, 120);
             }
 
-            Console.WriteLine("=======================================================================================================================================================");
-            Console.WriteLine("||||  ============ ============ ============ ========               =========    =          = ==========   ============ ============ ==========    ||||");
-            Console.WriteLine("||||  =          = =          = =          = =        =             =        =   =          = =         =  =          = =            =         =   ||||");
-            Console.WriteLine("||||  =          = =          = =          = =         =            =         =  =          = =          = =          = =            =          =  ||||");
-            Console.WriteLine("||||  =            =          = =          = =          =           =         =  =          = =         =  =            =            =         =   ||||");
-            Console.WriteLine("||||  =            =          = =          = =          =           ==========   =          = ==========   =            ==========   ==========    ||||");
-            Console.WriteLine("||||  =      ===== =          = =          = =          =           =         =  =          = =         =  =      ===== =            =         =   ||||");
-            Console.WriteLine("||||  =          = =          = =          = =         =            =          = =          = =          = =          = =            =          =  ||||");
-            Console.WriteLine("||||  =          = =          = =          = =        =             =         =  =          = =          = =          = =            =          =  ||||");
-            Console.WriteLine("||||  ============ ============ ============ ========               ==========   ============ =          = ============ ============ =          =  ||||");
-            Console.WriteLine("=======================================================================================================================================================");
+            Console.WriteLine(@"           _,---.     _,.---._       _,.---._                     "); 
+            Console.WriteLine(@"       _.='.'-,  \  ,-.' , -  `.   ,-.' , -  `.   _,..---._       "); 
+            Console.WriteLine(@"      /==.'-     / /==/_,  ,  - \ /==/_,  ,  - \/==/,   -  \      "); 
+            Console.WriteLine(@"     /==/ -   .-' |==|   .=.     |==|   .=.     |==|   _   _\     "); 
+            Console.WriteLine(@"     |==|_   /_,-.|==|_ : ;=:  - |==|_ : ;=:  - |==|  .=.   |     "); 
+            Console.WriteLine(@"     |==|  , \_.' )==| , '='     |==| , '='     |==|,|   | -|     "); 
+            Console.WriteLine(@"     \==\-  ,    ( \==\ -    ,_ / \==\ -    ,_ /|==|  '='   /     "); 
+            Console.WriteLine(@"      /==/ _  ,  /  '.='. -   .'   '.='. -   .' |==|-,   _`/      "); 
+            Console.WriteLine(@"      `--`------'     `--`--''       `--`--''   `-.`.____.'       "); 
+            Console.WriteLine(@"                                               _,---.      ,----.               ");
+            Console.WriteLine(@"         _..---.  .--.-. .-.-. .-.,.---.   _.='.'-,  \  ,-.--` , \  .-.,.---.   ");
+            Console.WriteLine(@"       .' .'.-. \/==/ -|/=/  |/==/  `   \ /==.'-     / |==|-  _.-` /==/  `   \  ");
+            Console.WriteLine(@"      /==/- '=' /|==| ,||=| -|==|-, .=., /==/ -   .-'  |==|   `.-.|==|-, .=., | ");
+            Console.WriteLine(@"      |==|-,   ' |==|- | =/  |==|   '='  /==|_   /_,-./==/_ ,    /|==|   '='  / ");
+            Console.WriteLine(@"      |==|  .=. \|==|,  \/ - |==|- ,   .'|==|  , \_.' )==|    .-' |==|- ,   .'  ");
+            Console.WriteLine(@"      /==/- '=' ,|==|-   ,   /==|_  . ,'.\==\-  ,    (|==|_  ,`-._|==|_  . ,'.  ");
+            Console.WriteLine(@"      |==|   -   //==/ , _  .'/==/  /\ ,  )/==/ _  ,  //==/ ,     //==/  /\ ,  )");
+            Console.WriteLine(@"      `-._`.___,' `--`..---'  `--`-`--`--' `--`------' `--`-----`` `--`-`--`--' ");
 
             do
             {
-                Console.WriteLine("=======================================================================================================================================================");
-                Console.WriteLine("================================================ Welcome to Good Burger! Home of the Good Burger! =====================================================");
-                Console.WriteLine("=======================================================================================================================================================");
-                Console.WriteLine();
-                Console.WriteLine("=======================================================================================================================================================");
-                Console.WriteLine("================================================================= MENU ================================================================================");
-                Console.WriteLine("=======================================================================================================================================================");
-                Console.WriteLine("============ FOOD ======================== CALORIES ============================ PRICE ================================================================");
-                Console.WriteLine("=======================================================================================================================================================");
+                Console.WriteLine("=======================================================================================");
+                Console.WriteLine("================== Welcome to Good Burger! Home of the Good Burger! ===================");
+                Console.WriteLine("=======================================================================================");
+                Console.WriteLine("=-------------------------------------- MENU -----------------------------------------=");
+                Console.WriteLine("=======================================================================================");
+                Console.WriteLine("=----------- FOOD ------------------------- CALORIES ------------------- PRICE -------=");
+                Console.WriteLine("=======================================================================================");
 
                 int menuCount = 0; ;
                 foreach (Product p in products)
@@ -64,18 +69,17 @@ namespace POS_Terminal
                     //Console.WriteLine($"Quantity: {inv.Quantity}");
                     
                 }
-                Console.WriteLine("=========================================================================");
+                Console.WriteLine("=======================================================================================");
                 do
                 {
-                    Console.Write("\nWhat can I get you?: ");
-                    string input = Console.ReadLine();
-
-                    Console.Write("\nHow many do you want?: ");
-                    int num = int.Parse(Console.ReadLine());
-
-                    inv.RemoveQuantity(input, num);
+                    int numinput = InputInt("\nWhat can I get you?: ");
+                    string input = inv.SelectItem(numinput);
+                    int num;
                     if (inv.Inv.ContainsKey(input))
                     {
+                        num = InputInt("\nHow many do you want?: ");
+
+                        inv.RemoveQuantity(input, num);
                         rec.AddToCart(input, num);
                         cart.Add(input);
                         Console.WriteLine($"\nAdding {num} {input}(s).");
@@ -91,12 +95,10 @@ namespace POS_Terminal
                     }
                     else
                     {
-                        Console.WriteLine("\nSorry, we don't have those.");
+                        Console.WriteLine("\nSorry, we don't have those.\n");
                     }
-
-
-
                 } while (RunAgain("Can I get you anything else? (y/n): "));
+
 
                 Console.WriteLine("Thanks for your order!");
                 Console.WriteLine("Here's what you got:");
@@ -104,11 +106,11 @@ namespace POS_Terminal
                 double subTotal = 0;
                 for (int i = 0; i < orders.Count; i++)
                 {
-                    Console.WriteLine($"{orders[i].Item3}x {orders[i].Item1,-12}${Math.Round(orders[i].Item2 * orders[i].Item3, 2)}");
+                    Console.WriteLine($"{orders[i].Item3}x {orders[i].Item1,-12}{(orders[i].Item2 * orders[i].Item3).ToString("C")}");
                     subTotal += (Math.Round(orders[i].Item2 * orders[i].Item3, 2));
                 }
 
-                Console.WriteLine($"\nYour total: ${Math.Round(subTotal, 2)}");
+                Console.WriteLine($"\nYour total: {subTotal.ToString("C")}");
                 Console.WriteLine("Have a GOOOOOOD Day!");
 
                 Console.WriteLine(inv);
@@ -116,6 +118,18 @@ namespace POS_Terminal
 
             
 
+        }
+        static int InputInt(string prompt)
+        {
+            Console.Write(prompt);
+            //Input validation to make sure an int is entered
+            bool isValid = int.TryParse(Console.ReadLine(), out int userInput);
+            while (!isValid)
+            {
+                Console.Write("That is not a valid entry. Please enter an integer: ");
+                isValid = int.TryParse(Console.ReadLine(), out userInput);
+            }
+            return userInput;
         }
         public static bool RunAgain(string prompt)
         {
@@ -129,7 +143,7 @@ namespace POS_Terminal
                 {
                     return false;
                 }
-                Console.WriteLine("\n");
+                Console.WriteLine();
             } while (c != 'y' && c != 'Y');
             return true;
         }
