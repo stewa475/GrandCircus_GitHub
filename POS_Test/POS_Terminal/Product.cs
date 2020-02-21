@@ -30,7 +30,7 @@ namespace POS_Terminal
 
         public override string ToString()
         {
-            return $"{name}: {price}\n{category}: {description}";
+            return $"\t{name,-18}\t\t{description,-30}\t\t{price.ToString("C")}";
         }
     }
 }
