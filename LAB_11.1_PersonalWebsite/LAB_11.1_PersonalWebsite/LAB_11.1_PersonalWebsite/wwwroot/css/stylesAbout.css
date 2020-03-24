@@ -1,0 +1,74 @@
+﻿body {
+    background-image: url('https://media.giphy.com/media/smzfl3E7a4iHK/source.gif')
+}
+
+h1 {
+    border-radius: 25px;
+    border: 10px solid #cccccc;
+    background: black;
+    padding: 10px;
+    height: 25px;
+    font-family: Impact;
+    color: #008F11;
+    margin-top: -980px;
+    text-align: left;
+    font-size: 20px;
+    position: fixed;
+}
+
+h2 {
+    border-radius: 25px;
+    border: 10px solid #cccccc;
+    background: black;
+    padding: 10px;
+    height: 25px;
+    font-family: Impact;
+    color: #008F11;
+    margin-top: -115px;
+    text-align: left;
+    font-size: 20px;
+    position: fixed;
+}
+
+.links {
+    text-decoration: none;
+    color: #008F11;
+}
+
+.links:hover {
+    color: white;
+}
+
+.intro {
+    border-radius: 25px;
+    border: 20px solid #cccccc;
+    background: black;
+    padding: 20px;
+    width: 800px;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 1000px;
+    font-size: 100px;
+    font-family: Impact;
+    text-align: center;
+    color: #cccccc;
+    opacity: 0.9;
+}
+
+.contact {
+    border-radius: 25px;
+    border: 20px solid #cccccc;
+    background: black;
+    padding: 20px;
+    width: 800px;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 800px;
+    margin-bottom: 90px;
+    font-size: 80px;
+    font-family: Impact;
+    text-align: center;
+    color: #cccccc;
+    opacity: 0.9;
+}
+
