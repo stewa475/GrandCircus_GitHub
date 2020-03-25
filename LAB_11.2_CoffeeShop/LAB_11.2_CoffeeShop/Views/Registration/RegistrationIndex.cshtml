@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Registration";
+}
+
+<h1>Sign Up</h1>
+<p>It's quick and easy.</p>
+
+<form action="/Registration/RegistrationConfirmation" method="post">
+    First Name:<br /><input type="text" name="fname" maxlength="20" /><br />
+
+    Last Name:<br /><input type="text" name="lname" maxlength="20" /><br />
+    
+    Email:<br /><input type="email" name="email" /><br />
+    
+    Mobile Number:<br /><input type="text" name="mobile" maxlength="10" /><br />
+    <br />
+    <input type="submit" value="Sign Up!" />
+</form>
+
+
+
